@@ -1,0 +1,17 @@
+{
+  "name": "parallax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/repcolding/parallax.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "main": "./parallax.mjs",
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  },
+  "dependencies": {
+    "object-assign": "^4.1.1",
+    "raf": "^3.4.1"
+  }
+}
